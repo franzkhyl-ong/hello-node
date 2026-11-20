@@ -3,7 +3,7 @@
 .vscode/
 
 graphify-out/
-
+generated/prisma/
 node_modules/
 dist/
 coverage/
